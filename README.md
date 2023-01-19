@@ -24,6 +24,7 @@ This repository is a collection of said actions which you are free to re-use and
 
 You will first of all need a recent enough version of [node](https://nodejs.org) as well as [yarn](https://yarnpkg.com). The node version used to build & test this project can be found [here](/.nvmrc). The `scripts` section under the root [package.json](/package.json) is a good place to get started.
 
+
 ```bash
 yarn install
 yarn build
